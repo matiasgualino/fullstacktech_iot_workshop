@@ -1,0 +1,14 @@
+[
+	{
+		"tag_id": "2f234454-cf6d-4a0f-adf2-f4911ba9ffa6_1_1",
+		"name": "Hamburguesa 20% OFF",
+		"icon_name": "hamburger_icon",
+		"price": 50.0
+	},
+	{
+		"tag_id": "0x2f234454f4911ba9ffa6_0x000000000001_",
+		"name": "Cafe 50% OFF",
+		"icon_name": "coffee_icon",
+		"price": 20.0
+	}
+]
